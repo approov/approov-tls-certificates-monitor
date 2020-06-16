@@ -24,7 +24,7 @@ The setup is done via an `.env` file:
 cp .env.example .env
 ```
 
-Adjust the values to fit your needs.
+Read the comments on the `.env.example` file and adjust the values to fit your needs.
 
 
 ## RUN THE MONITOR FROM DOCKER
